@@ -5,25 +5,25 @@ permalink: /02-generalitat-a-les-xarxes/
 ---
 <!-- MarkdownTOC -->
 
-- [2. La Generalitat de Catalunya a les xarxes socials](#2-la-generalitat-de-catalunya-a-les-xarxes-socials)
-	- [Principis que inspiren la presència a les xarxes socials](#principis-que-inspiren-la-presència-a-les-xarxes-socials)
-	- [Com s'ordenen els perfils corporatius](#com-sordenen-els-perfils-corporatius)
-		- [1a anella](#1a-anella)
-		- [2a anella](#2a-anella)
-		- [3a anella](#3a-anella)
-	- [Consells i recomanacions d’ús per al personal de la Generalitat](#consells-i-recomanacions-d’ús-per-al-personal-de-la-generalitat)
+- [2. La Generalitat a les xarxes](#2-la-generalitat-a-les-xarxes)
+	- [2.1. Principis](#21-principis)
+	- [2.2. Com s'ordenen els perfils corporatius](#22-com-sordenen-els-perfils-corporatius)
+		- [2.2.1. 1a anella](#221-1a-anella)
+		- [2.2.2. 2a anella](#222-2a-anella)
+		- [2.2.3. 3a anella](#223-3a-anella)
+	- [2.3. Consells i recomanacions](#23-consells-i-recomanacions)
 
 <!-- /MarkdownTOC -->
 
-<a name="2-la-generalitat-de-catalunya-a-les-xarxes-socials"></a>
-# 2. La Generalitat de Catalunya a les xarxes socials
+<a name="2-la-generalitat-a-les-xarxes"></a>
+# 2. La Generalitat a les xarxes
 
 La Generalitat de Catalunya té una presència activa a les xarxes socials des de 2009. Durant aquest temps ha  consolidat una relació  amb la ciutadania a través dels canals digitals.
 
 Des de 200 perfils en el conjunt de la institució, es manté una relació especialitzada amb el ciutadà. La suma de tots aquests perfils forma el que es coneix com al servei corporatiu de xarxes socials de gencat.
 
-<a name="principis-que-inspiren-la-presència-a-les-xarxes-socials"></a>
-## Principis que inspiren la presència a les xarxes socials
+<a name="21-principis"></a>
+## 2.1. Principis
 
 A l'hora d'interaccionar amb la ciutadania, cal fer-ho sempre amb un to d'acord amb els valors compartits de la Generalitat i tots els seus professionals:
  
@@ -43,13 +43,13 @@ Quan s’és a les xarxes socials, s’ha de tenir present que s’entra en un t
 
 Com a principi general, des dels perfils corporatius no es poden emetre opinions personals i la línia editorial ha de coincidir amb l'estratègia de comunicació. En la redacció de continguts a les xarxes socials, blogs i entorns web cal usar el to adequat a la institució pública que l’emet. Així mateix, la redacció ha de ser lingüísticament correcta, sense errors ortogràfics ni lèxics. S’han de revisar els textos que es volen publicar amb l’ajuda, si escau, de recursos lingüístics (diccionaris, manuals d’ortografia, llibres d’estil, etc.).
 
-<a name="com-sordenen-els-perfils-corporatius"></a>
-## Com s'ordenen els perfils corporatius
+<a name="22-com-sordenen-els-perfils-corporatius"></a>
+## 2.2. Com s'ordenen els perfils corporatius
 
 Per ordenar la gestió del comptes de la Generalitat de Catalunya, s'estableixen tres nivells diferents, cada un amb un protocol d'actuació diferent, segons el grau de participació de la Generalitat.
 
-<a name="1a-anella"></a>
-### 1a anella
+<a name="221-1a-anella"></a>
+### 2.2.1. 1a anella
 
 Els comptes formen part totalment del servei corporatiu. Així doncs, la Direcció General d'Atenció Ciutadana i Difusió (DGACD) en custodia la contrassenya i proporciona l'avatar oficial als gestors d’acord amb el Programa d’identificació visual (PIV) de les xarxes socials de la Generalitat. També fa servei de suport i envia les mètriques del compte periòdicament.
 
@@ -59,8 +59,8 @@ Tots els perfils d'aquest tipus figuren en el directori oficial de xarxes social
 
 ![1a anella ]({{ site.baseurl }}/img/2_avatars_1.jpg)
 
-<a name="2a-anella"></a>
-### 2a anella
+<a name="222-2a-anella"></a>
+### 2.2.2. 2a anella
 
 Hi ha departaments, serveis i marques que, per l'estructura interna mateixa, disposen de centres prestadors de serveis (CPS), repartits pel territori. Els CPS poden demanar l’obertura d’un compte de xarxa social que segueixi les pautes comunes per a tota la Generalitat i obtenir l’avatar oficial.
 
@@ -93,8 +93,8 @@ Funcions del CPS:
 
 ![2a anella ]({{ site.baseurl }}/img/2_avatars_2.png)
 
-<a name="3a-anella"></a>
-### 3a anella
+<a name="223-3a-anella"></a>
+### 2.2.3. 3a anella
 
 Depenen de la segona anella. Per tant, el màxim responsable en l'obertura del perfil és el departament al qual pertanyen, que segueix el mateix procediment que en la segona anella.
 
@@ -105,8 +105,8 @@ Les contrassenyes els pertanyen i poden fer ús (no obligatori) de l'avatar corp
 
 ![3a anella ]({{ site.baseurl }}/img/2_avatars_3.png)
 
-<a name="consells-i-recomanacions-d’ús-per-al-personal-de-la-generalitat"></a>
-## Consells i recomanacions d’ús per al personal de la Generalitat
+<a name="23-consells-i-recomanacions"></a>
+## 2.3. Consells i recomanacions
 
 Les xarxes socials ofereixen un nombre il·limitat de possibilitats de les quals les persones que treballen a la Generalitat poden gaudir de manera responsable. Fins i tot quan interaccionin des dels seus perfils personals a les xarxes socials, com que són membres de la institució, haurien de poder tenir en compte una sèrie de recomanacions per garantir-ne un bon ús.
 

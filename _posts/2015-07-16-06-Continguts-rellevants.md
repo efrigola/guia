@@ -6,10 +6,10 @@ permalink: /06-generar-continguts-rellevants/
 <!-- MarkdownTOC  -->
 
 - [6. Generar continguts rellevants](#6-generar-continguts-rellevants)
-	- [Tipus de continguts](#tipus-de-continguts)
-	- [Redacció](#redacció)
-	- [Calendari editorial](#calendari-editorial)
-	- [Freqüència de publicació](#freqüència-de-publicació)
+	- [6.1. Tipus de continguts](#61-tipus-de-continguts)
+	- [6.2. Redacció](#62-redacció)
+	- [6.3. Calendari editorial](#63-calendari-editorial)
+	- [6.4. Freqüència de publicació](#64-freqüència-de-publicació)
 
 <!-- /MarkdownTOC -->
 
@@ -22,8 +22,8 @@ El tipus de contingut rellevant és diferent per a cada departament, servei o ma
 
 El mòbil és el principal dispositiu des d'on la ciutadania consulta els continguts publicats a xarxes. Cal tenir en compte les singularitats del mitjà i adaptar-hi tots els continguts que es publiquin.
 
-<a name="tipus-de-continguts"></a>
-## Tipus de continguts
+<a name="61-tipus-de-continguts"></a>
+## 6.1. Tipus de continguts
 
 - Incorporar dinàmiques comunicatives a determinats perfils que hi escaiguin més, com ara la foto del dia o la previsió del temps, en perfils de caire més proactiu. Aquestes informacions poden anar acompanyades d’una etiqueta ideada per a l’ocasió. L'etiqueta no ha de tenir més de 12 caràcters i es pot anar repetint cada dia.
 
@@ -47,8 +47,8 @@ El mòbil és el principal dispositiu des d'on la ciutadania consulta els contin
 
 ![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_7.png)
 
-<a name="redacció"></a>
-## Redacció
+<a name="62-redacció"></a>
+## 6.2. Redacció
 
 Pautes per redactar continguts:
 
@@ -72,8 +72,8 @@ Pautes per redactar continguts:
 
 ![ Continguts rellevants]({{ site.baseurl }}/img/6_cnt_9.png)
 
-<a name="calendari-editorial"></a>
-## Calendari editorial
+<a name="63-calendari-editorial"></a>
+## 6.3. Calendari editorial
 
 Aspectes a tenir en compte en l'editorialització de continguts:
 
@@ -87,8 +87,8 @@ Aspectes a tenir en compte en l'editorialització de continguts:
 
 - La publicació programada és una bona eina però s'ha de tenir un control del que es publicarà i la possibilitat d'accedir a modifcar-la. Cal anar amb compte perquè un missatge programat en segons quin context pot ser l'origen d'una crisi.
 
-<a name="freqüència-de-publicació"></a>
-## Freqüència de publicació
+<a name="64-freqüència-de-publicació"></a>
+## 6.4. Freqüència de publicació
 
 L'atenció de la ciutadania pren cada vegada més rellevància. La informació que arriba al llarg d'un dia creix any rere any, per això cal intentar racionalitzar els missatges a publicar.
 
