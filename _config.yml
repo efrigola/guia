@@ -1,6 +1,5 @@
 # Dependencies
-markdown:         redcarpet
-pygments:         true
+markdown: 				redcarpet
 
 # Permalinks
 permalink:        /:title/
@@ -9,7 +8,7 @@ permalink:        /:title/
 title:            Guia Xarxes Socials
 tagline:          'Generalitat de Catalunya'
 description:      'Guia de xarxes socials de la Generalitat de Catalunya'
-baseurl:          http://gencat.github.io/guia
+url:          		http://gencat.github.io/guia
 
 # Gems
 gems:
