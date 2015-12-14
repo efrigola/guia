@@ -1,6 +1,6 @@
 ---
 layout: page
-title: La Generalitat de Catalunya a les xarxes socials
+title: La Generalitat a les xarxes
 permalink: /02-generalitat-a-les-xarxes/
 ---
 <!-- MarkdownTOC -->
